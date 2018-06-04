@@ -1,0 +1,37 @@
+.header-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+header {
+	background: $dark-blue;
+	margin: 0;	
+	padding:12px 0;
+}
+.header-title {
+    color: #ffffff;
+    text-decoration:none;
+   }
+   .page-header{
+       background: #f7f7f7;
+       padding: 26px 0;
+       margin-bottom: 20px;
+   }
+.button-link {
+	background: none;
+	color: #f7f7f7;
+	padding: 16px;
+	border: none;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+	text-decoration: none;
+}
+.navigation {
+    padding: 16px 0;
+}
+.navigation a {
+    color: $dark-blue;
+    text-decoration: none;
+    padding-right: 8px;
+}

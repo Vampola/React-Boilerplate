@@ -1,0 +1,22 @@
+$dark-blue: #364051;
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+}
+
+h1 {
+    font-size: 2.2rem;
+}
+.content-container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 2%;
+}
+.is-active {
+    font-weight: bold;
+}
